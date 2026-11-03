@@ -1,6 +1,6 @@
 #![allow(dead_code, unused_variables, unused_mut)]
 
-use std::fmt::{Debug, Display};
+use std::fmt::Debug;
 
 /// Entry point for Chapter 10.2: Traits: Defining Shared Behavior
 ///
