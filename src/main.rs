@@ -14,7 +14,6 @@ fn main() {
     trait_bound_syntax();
     multiple_bounds_and_where_clauses();
     returning_types_that_implement_traits();
-    conditional_implementations();
     orphan_rule();
 }
 
